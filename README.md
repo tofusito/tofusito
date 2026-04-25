@@ -4,7 +4,7 @@
 
 I build practical systems for my own life: self-hosted tools, AI agents, personal finance software, and voice-first apps.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-me.tofusito.org-111111?style=for-the-badge&logo=astro&logoColor=white)](https://me.tofusito.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-me.tofusito.org-111111?style=for-the-badge)](https://me.tofusito.org)
 [![GitHub](https://img.shields.io/badge/GitHub-tofusito-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tofusito)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manueljgf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manueljgf/)
 
@@ -73,7 +73,7 @@ I am currently exploring cost-aware multi-agent development workflows: model rou
 ## Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,python,fastapi,docker,linux,swift,github" alt="Toolkit icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,docker,linux,swift,github" alt="Toolkit icons" />
 </p>
 
 ## Older public experiments
