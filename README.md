@@ -17,46 +17,66 @@ I build practical systems for my own life: self-hosted tools, AI agents, persona
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofusito&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160" />
 </div>
 
-## What I am building
+## Featured work
 
 <table>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/tofusito/nutri-diary">Nutri Diary</a></h3>
+      <p>A privacy-first nutrition diary for two people: barcode lookup, personal food history, macro goals and a mobile PWA.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Self--hosted-111111?style=flat-square&logo=docker" alt="Self-hosted" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/tofusito/haier-control">Haier Control</a></h3>
+      <p>A local-first, mobile dashboard for controlling Haier hOn air conditioners, with timers, audit history and a tested driver boundary.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Local--first-111111?style=flat-square" alt="Local-first" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/tofusito/homebattle">Happy Home</a></h3>
+      <p>A friendly household coordination app with rotating chores, shared goals, offline support and live updates between devices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TanStack-111111?style=flat-square" alt="TanStack" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" alt="Docker" />
+      </p>
+    </td>
+    <td width="50%">
       <h3><a href="https://github.com/tofusito/kakei">Kakei</a></h3>
-      <p>Self-hosted personal finance tracker with a minimal, privacy-first interface.</p>
+      <p>A self-hosted personal finance tracker with a minimal, privacy-first interface for understanding everyday spending.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" alt="TypeScript" />
         <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React" />
         <img src="https://img.shields.io/badge/Self--hosted-111111?style=flat-square&logo=docker" alt="Self-hosted" />
       </p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/tofusito/ming">Ming</a></h3>
-      <p>Personal self-hosted voice translator for Mandarin Chinese and Spanish family conversations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Speech-111111?style=flat-square" alt="Speech" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/tofusito/homelab">Homelab</a></h3>
-      <p>Reference Docker setup for media, automation, networking, and self-hosted services.</p>
+      <h3><a href="https://github.com/tofusito/ming">Ming Translator</a></h3>
+      <p>A self-hosted family voice translator for Mandarin Chinese and Spanish, with local speech services and a mobile-first interface.</p>
       <p>
-        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" alt="Docker" />
-        <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/Home_Automation-111111?style=flat-square" alt="Home automation" />
+        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Whisper-111111?style=flat-square" alt="Whisper" />
+        <img src="https://img.shields.io/badge/PWA-111111?style=flat-square" alt="PWA" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/tofusito/agents">Agent Forge</a></h3>
-      <p>Practical custom AI agents for personal workflows, automation, and experiments.</p>
+      <h3><a href="https://github.com/tofusito/homelab">Homelab</a></h3>
+      <p>A practical Docker reference for media, automation, networking and self-hosted services.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square" alt="AI agents" />
-        <img src="https://img.shields.io/badge/Prompts-111111?style=flat-square" alt="Prompts" />
-        <img src="https://img.shields.io/badge/Automation-111111?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" alt="Docker" />
+        <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux" alt="Linux" />
       </p>
     </td>
   </tr>
@@ -64,11 +84,14 @@ I build practical systems for my own life: self-hosted tools, AI agents, persona
 
 ## Research
 
+<a href="https://github.com/tofusito/agents">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tofusito&repo=agents&theme=transparent&hide_border=true" alt="agents repository card" />
+</a>
 <a href="https://github.com/tofusito/multi-agents">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tofusito&repo=multi-agents&theme=transparent&hide_border=true" alt="multi-agents repository card" />
 </a>
 
-I am currently exploring cost-aware multi-agent development workflows: model routing, hidden workers, permissions, and setups that are transparent enough to trust.
+I am exploring cost-aware multi-agent development workflows: model routing, hidden workers, permissions, and setups that are transparent enough to trust.
 
 ## Toolkit
 
